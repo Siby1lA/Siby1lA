@@ -1,11 +1,5 @@
 <div align=center>
 
-###  🤭 About Me
-취미로 JLPT 단어장인 [일단냥](https://ajar-feather-99d.notion.site/06ddbca4875e4379a535b772eabb0e1b)을 개발하고 있는 프론트엔드 개발자 박수빈이에요
-
-많은 사람들이 제가 만든 서비스를 즐겁게 이용하는 것에 관심이 많아요
-
-항상 개발하고 공부한 것에 대해 기록하는 습관도 가지고 있답니다.
 
 
 
