@@ -9,7 +9,7 @@
   
 ###  🔍 More
  
-<a href="[https://clear-index-f4b.notion.site/8440e979948f42d092389024cf41e33d](https://www.notion.so/a87cfb33671a4fd8a87eac9958f36709?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7d5fff?style=for-the-badge&logo=Notion&logoColor=white"/>
+<a href="https://www.notion.so/a87cfb33671a4fd8a87eac9958f36709?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7d5fff?style=for-the-badge&logo=Notion&logoColor=white"/>
 <a href="https://velog.io/@psb7391/" target="_blank"><img src="https://img.shields.io/badge/Blog-32ff7e?style=for-the-badge&logo=Apache&logoColor=black"/>
         
 
