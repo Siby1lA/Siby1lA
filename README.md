@@ -8,8 +8,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase)](https://skillicons.dev)
   
 ###  🔍 More
- 
-<a href="https://vivid-credit-918.notion.site/a87cfb33671a4fd8a87eac9958f36709?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7d5fff?style=for-the-badge&logo=Notion&logoColor=white"/>
+
+<a href="https://www.rallit.com/resumes/15901@psb4644/%EB%B0%95%EC%88%98%EB%B9%88" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7d5fff?style=for-the-badge&logo=Notion&logoColor=white"/>
 <a href="https://velog.io/@psb7391/" target="_blank"><img src="https://img.shields.io/badge/Blog-32ff7e?style=for-the-badge&logo=Apache&logoColor=black"/>
         
 
